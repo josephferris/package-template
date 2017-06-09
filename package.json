@@ -1,0 +1,11 @@
+{
+  "name": "package-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/josephferris/package-template.git",
+  "author": "Joey Ferris <joey@joeyferris.io>",
+  "license": "UNLICENSED",
+  "scripts": {
+
+  }
+}
