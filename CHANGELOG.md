@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 
 ### Chores
 
+* Added items to .gitignore and .babelrc, updated README.md ([b06b63f](https://github.com/josephferris/package-template/commit/b06b63f))
 * Added package description ([17a59f0](https://github.com/josephferris/package-template/commit/17a59f0))
 
 ### Features
