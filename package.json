@@ -1,6 +1,7 @@
 {
   "name": "package-template",
   "version": "1.0.0",
+  "description": "Starter template for node_module",
   "main": "index.js",
   "repository": "https://github.com/josephferris/package-template.git",
   "author": "Joey Ferris <joey@joeyferris.io>",
